@@ -1,7 +1,0 @@
-config_local.py
-data/
-tmp/
-__pycache__/
-*.pyc
-*.db
-.env
